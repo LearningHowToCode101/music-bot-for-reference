@@ -4,3 +4,4 @@ Open up terminal in Visual Studio Code and paste this in ``npm i dotenv discord.
 To install the packages 
 
 After you finish installing dm me.
+Or if you need help or don't understand just dm.
